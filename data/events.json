@@ -10,7 +10,7 @@
     {
       "title": "Igre",
       "startTime": "12:00",
-      "location": "P16 P10",
+      "location": "P16 / P10",
       "accentColor": "#EBD157",
       "content": [
         "<p>Pri predmetu Programiranje 1 že tradicionalno prirejamo tekmovanja v programiranju namiznih iger. Študentski programi so doslej tekmovali v igrah, kot so Štiri v vrsto, Točke in črte, Hex, Gomoku ... Marsikateri udeleženec ob vpisu na fakulteto ni imel nikakršnega predznanja programiranja, po borih treh mesecih študija pa je na tekmovanju dosegel nadpovprečno uvrstitev ali celo zmago.</p>",
@@ -21,7 +21,7 @@
     {
       "title": "Sheep Herding",
       "startTime": "12:00",
-      "location": "P20 P04",
+      "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
         "<p>V vlogi kužka v eni minuti pripelji čim več ovc v skedenj. Preganjanje ovc? A je to biotehniška in ne računalniški faks? Res je nova stavba FRI na isti lokaciji, ampak ali sem morda zašel v napačno stojnico? Če se ti po glavi vrtijo ta vprašanja, naj te potolažim. Nisi zgrešil. Če te zanima, kaj imajo skupnega črede ovc, jate rib in ptic, vojaški droni, igre in filmi Gospodar prstanov se nam pridruži."
@@ -30,7 +30,7 @@
     {
       "title": "Fishertechnik",
       "startTime": "12:00",
-      "location": "P20 P04",
+      "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
         "<p>Ste že kdaj videli, kako je videti moderna tovarna - praktično česarkoli se spomnite – od znotraj? Polna je obdelovalnih strojev, tekočih trakov, lučk, transporterjev … In vse deluje usklajeno, načrtovano, sprogramirano. Bi želeli vedeti, kakšni »možgani« so v ozadju in kako se programira take stroje? Prikazali vam bomo igračkast model proizvodnje linije in pravi industrijski računalnik, ki to linijo spravlja k življenju. Poleg tega boste lahko iz prve roke oziroma ust naših študentov izvedeli, kaj vse se lahko naučite pri nas in kako je to lahko zabavno.</p>"
@@ -39,7 +39,7 @@
     {
       "title": "Minecraft Slovenia",
       "startTime": "12:00",
-      "location": "P20 P04",
+      "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
         "<p>Ste se kdaj med igranjem računalniške igre vprašali, kako bi v tej igri izgledal vaš domači kraj? Ste poskusili v igri Minecraft to narediti sami? Aplikacija Slovenija iz kock prikaže poljuben izsek iz slovenske pokrajine, zgrajene iz kock oz. blokov, podobnim tistim v igri Minecraft. Aplikacija uporablja odprte podatkovne zbirke Agencije Republike Slovenije za okolje (ARSO), natančneje zbirki posnetkov LIDAR in Ortofoto.</p>",
@@ -50,7 +50,7 @@
     {
       "title": "Zombie Walk",
       "startTime": "12:00",
-      "location": "P19 P03",
+      "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Verjetno si v filmih opazil, da imajo zombiji zanje značilno hojo. Ali misliš, da jo lahko oponašaš? Danes lahko to poskusiš. 'Zombie walk' zajema podatke inercijskih senzorjev v tvojem telefonu med hojo in jih pošilja v oblak, tam pa poseben algoritem oceni, kako je način tvoje hoje podoben zombijevi. Sodelovanje je preprosto: s svojim Android telefonom se prijaviš v Wi-Fi, namestiš in zaženeš aplikacijo, vpišeš svoj vzdevek in - hodiš kot zombie! Na ta način lahko ugotoviš, kako dobra je tvoja zombie-hoja, prav tako pa lahko tekmuješ s prijatelji in se primerjaš z ostalimi udeleženci.</p>"
@@ -59,7 +59,7 @@
     {
       "title": "Slavni dvojnik",
       "startTime": "12:00",
-      "location": "P19 P03",
+      "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Slavni dvojnik zajame slike posameznika in na podlagi njegovih značilnosti poišče sliko znane osebnosti, ki ji je najbolj podoben. Podobnost se išče z nevronskimi mrežami, ki so bile naučene na velikem sklopu podatkov OpenFace. Aplikacijo predstavlja sklop interaktivnih komponent, razvitih v okolju za podatkovno analitiko in strojno učenje Orange, ki ga od leta 1996 razvijamo na Fakulteti za računalništvo in informatiko.</p>"
@@ -68,7 +68,7 @@
     {
       "title": "Parkinsoncheck",
       "startTime": "12:00",
-      "location": "P19 P03",
+      "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Razvili smo aplikacijo za detekcijo morebitnih znakov tremorja (parkinsonski ali esencialni tremor) v ročno narisani spirali. Primeri narisanih spiral so na sliki spodaj. Sistem je bil razvit v aplikativnem projektu ParkinsonCheck. Teče na pametnih telefonih in tabličnih računalnikih.</p>",
@@ -79,7 +79,7 @@
     {
       "title": "Kriptografija",
       "startTime": "12:00",
-      "location": "P21 P09",
+      "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Kriptografija združuje mnoga področja, od matematike in računalništva pa vse do ekonomije in prava. Potrebujejo jo vsi – tisti, ki uporabljajo pošto in iščejo po internetu, in tisti, ki vodijo velika podjetja ter države. Kako kriptografija deluje, vam bomo pokazali s pomočjo kriptografskih ugank.</p>"
@@ -88,7 +88,7 @@
     {
       "title": "Peskovnik",
       "startTime": "12:00",
-      "location": "P21 P09",
+      "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Peskovnik predstavlja virtualno obogateno okolje s katerim se na visokotehnološki način vrnemo v otroško obdobje brezskrbnega ustvarjanja z mivko. Projicirana vsebina se spreminja v skladu s trenutno obliko pokrajine v peskovniku. S tem lahko simuliramo višinske nivoje v različnih odtenkih. Zaradi svoje zasnove je instalacija zelo primerna za vizualizacijo virtualne geologije. Z uporabo globinskega senzorja in projektorja lahko pričaramo izjemno natančno procesiranje fizične površine in hkrati obogateno predstavitev novih vsebin s katerimi površina nemudoma postane bolj atraktivna.</p>"
@@ -97,7 +97,7 @@
      {
       "title": "Mindreader",
       "startTime": "12:00",
-      "location": "P21 P09",
+      "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Mindreader v realnem času analizira vhodno sliko, na kateri poišče obraze vseh prisotnih opazovalcev. Aplikacija sledi detektiranim obrazom in jih v virtualnem svetu ustrezno obogati. Posameznik lahko pridobi novo, interaktivno identiteto, ki je pogojena z analiziranimi obraznimi značilnostmi. Hkrati vsak obraz pridobi t.i. miselni oblaček, v katerem je zapisana humorna izjava, ki ponazarja trenutno razmišljanje opazovalca. Instalacija je namenjena družabnim dogodkom, kjer je zaželjeno sproščeno navezovanje stikov in Mindreader v tem pogledu svojo nalogo opravlja več kot odlično!</p>"
@@ -107,7 +107,7 @@
     {
       "title": "Robotska roka",
       "startTime": "12:00",
-      "location": "P18 P02",
+      "location": "P18 / P02",
       "accentColor": "#52CC5C",
       "content": [
         "<p>Na Fakulteti za računalništvo in informatiko smo izdelali pametno robotsko roko, ki zaznava svet okoli sebe in se nanj odziva. Pri izdelavi smo uporabili najnovejše tehnologije, od 3D tiskalnika do poceni računalnikov Raspberry Pi. Razvita roka je po načinu upravljanja enaka kot velike robotske roke na proizvodnih linijah ter drugih robotskih sistemih, kar omogoča našim študentom, da se spoznajo z robotiko na praktični in dostopen način. Prikazali bomo delovanje pametne robotske roke, obenem pa bo razložen tudi postopek njene izdelave.</p>"
@@ -116,7 +116,7 @@
     {
       "title": "Turtle bot",
       "startTime": "12:00",
-      "location": "P18 P02",
+      "location": "P18 / P02",
       "accentColor": "#52CC5C",
       "content": [
         "<p>Mobilni roboti postajajo naši vsakdanji spremljevalci v gospodinjstvu. Sesalci sami skrbijo za brezhibno čista tla v naših domovih, kosilnice pa za popolno travnato površino na vrtovih. Ste se kdaj vprašali, kako taki mobilni roboti delujejo, kako gledajo na svet in kako razpoznavajo svojo okolico? Poglejte na svet skozi robotove oči in spoznali boste, da je njegov pogled precej drugačen.</p>",
@@ -135,7 +135,7 @@
     {
       "title": "Igre",
       "startTime": "12:00",
-      "location": "P16 P10",
+      "location": "P16 / P10",
       "accentColor": "#EBD157",
       "content": [
         "<p>Pri predmetu Programiranje 1 že tradicionalno prirejamo tekmovanja v programiranju namiznih iger. Študentski programi so doslej tekmovali v igrah, kot so Štiri v vrsto, Točke in črte, Hex, Gomoku ... Marsikateri udeleženec ob vpisu na fakulteto ni imel nikakršnega predznanja programiranja, po borih treh mesecih študija pa je na tekmovanju dosegel nadpovprečno uvrstitev ali celo zmago.</p>"
@@ -145,7 +145,7 @@
     {
       "title": "Sheep Herding",
       "startTime": "12:00",
-      "location": "P20 P04",
+      "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
         "<p>V vlogi kužka v eni minuti pripelji čim več ovc v skedenj. Preganjanje ovc? A je to biotehniška in ne računalniški faks? Res je nova stavba FRI na isti lokaciji, ampak ali sem morda zašel v napačno stojnico? Če se ti po glavi vrtijo ta vprašanja, naj te potolažim. Nisi zgrešil. Če te zanima, kaj imajo skupnega črede ovc, jate rib in ptic, vojaški droni, igre in filmi Gospodar prstanov se nam pridruži."
@@ -154,7 +154,7 @@
     {
       "title": "Fishertechnik",
       "startTime": "12:00",
-      "location": "P20 P04",
+      "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
         "<p>Ste že kdaj videli, kako je videti moderna tovarna - praktično česarkoli se spomnite – od znotraj? Polna je obdelovalnih strojev, tekočih trakov, lučk, transporterjev … In vse deluje usklajeno, načrtovano, sprogramirano. Bi želeli vedeti, kakšni »možgani« so v ozadju in kako se programira take stroje? Prikazali vam bomo igračkast model proizvodnje linije in pravi industrijski računalnik, ki to linijo spravlja k življenju. Poleg tega boste lahko iz prve roke oziroma ust naših študentov izvedeli, kaj vse se lahko naučite pri nas in kako je to lahko zabavno.</p>"
@@ -163,7 +163,7 @@
     {
       "title": "Minecraft Slovenia",
       "startTime": "12:00",
-      "location": "P20 P04",
+      "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
         "<p>Ste se kdaj med igranjem računalniške igre vprašali, kako bi v tej igri izgledal vaš domači kraj? Ste poskusili v igri Minecraft to narediti sami? Aplikacija Slovenija iz kock prikaže poljuben izsek iz slovenske pokrajine, zgrajene iz kock oz. blokov, podobnim tistim v igri Minecraft. Aplikacija uporablja odprte podatkovne zbirke Agencije Republike Slovenije za okolje (ARSO), natančneje zbirki posnetkov LIDAR in Ortofoto.</p>",
@@ -174,7 +174,7 @@
     {
       "title": "Zombie Walk",
       "startTime": "12:00",
-      "location": "P19 P03",
+      "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Verjetno si v filmih opazil, da imajo zombiji zanje značilno hojo. Ali misliš, da jo lahko oponašaš? Danes lahko to poskusiš. 'Zombie walk' zajema podatke inercijskih senzorjev v tvojem telefonu med hojo in jih pošilja v oblak, tam pa poseben algoritem oceni, kako je način tvoje hoje podoben zombijevi. Sodelovanje je preprosto: s svojim Android telefonom se prijaviš v Wi-Fi, namestiš in zaženeš aplikacijo, vpišeš svoj vzdevek in - hodiš kot zombie! Na ta način lahko ugotoviš, kako dobra je tvoja zombie-hoja, prav tako pa lahko tekmuješ s prijatelji in se primerjaš z ostalimi udeleženci.</p>"
@@ -183,7 +183,7 @@
     {
       "title": "Slavni dvojnik",
       "startTime": "12:00",
-      "location": "P19 P03",
+      "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Slavni dvojnik zajame slike posameznika in na podlagi njegovih značilnosti poišče sliko znane osebnosti, ki ji je najbolj podoben. Podobnost se išče z nevronskimi mrežami, ki so bile naučene na velikem sklopu podatkov OpenFace. Aplikacijo predstavlja sklop interaktivnih komponent, razvitih v okolju za podatkovno analitiko in strojno učenje Orange, ki ga od leta 1996 razvijamo na Fakulteti za računalništvo in informatiko.</p>"
@@ -192,7 +192,7 @@
     {
       "title": "Parkinsoncheck",
       "startTime": "12:00",
-      "location": "P19 P03",
+      "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Razvili smo aplikacijo za detekcijo morebitnih znakov tremorja (parkinsonski ali esencialni tremor) v ročno narisani spirali. Primeri narisanih spiral so na sliki spodaj. Sistem je bil razvit v aplikativnem projektu ParkinsonCheck. Teče na pametnih telefonih in tabličnih računalnikih.</p>",
@@ -203,7 +203,7 @@
     {
       "title": "Kriptografija",
       "startTime": "12:00",
-      "location": "P21 P09",
+      "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Kriptografija združuje mnoga področja, od matematike in računalništva pa vse do ekonomije in prava. Potrebujejo jo vsi – tisti, ki uporabljajo pošto in iščejo po internetu, in tisti, ki vodijo velika podjetja ter države. Kako kriptografija deluje, vam bomo pokazali s pomočjo kriptografskih ugank.</p>"
@@ -212,7 +212,7 @@
     {
       "title": "Peskovnik",
       "startTime": "12:00",
-      "location": "P21 P09",
+      "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Peskovnik predstavlja virtualno obogateno okolje s katerim se na visokotehnološki način vrnemo v otroško obdobje brezskrbnega ustvarjanja z mivko. Projicirana vsebina se spreminja v skladu s trenutno obliko pokrajine v peskovniku. S tem lahko simuliramo višinske nivoje v različnih odtenkih. Zaradi svoje zasnove je instalacija zelo primerna za vizualizacijo virtualne geologije. Z uporabo globinskega senzorja in projektorja lahko pričaramo izjemno natančno procesiranje fizične površine in hkrati obogateno predstavitev novih vsebin s katerimi površina nemudoma postane bolj atraktivna.</p>"
@@ -221,7 +221,7 @@
      {
       "title": "Mindreader",
       "startTime": "12:00",
-      "location": "P21 P09",
+      "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Mindreader v realnem času analizira vhodno sliko, na kateri poišče obraze vseh prisotnih opazovalcev. Aplikacija sledi detektiranim obrazom in jih v virtualnem svetu ustrezno obogati. Posameznik lahko pridobi novo, interaktivno identiteto, ki je pogojena z analiziranimi obraznimi značilnostmi. Hkrati vsak obraz pridobi t.i. miselni oblaček, v katerem je zapisana humorna izjava, ki ponazarja trenutno razmišljanje opazovalca. Instalacija je namenjena družabnim dogodkom, kjer je zaželjeno sproščeno navezovanje stikov in Mindreader v tem pogledu svojo nalogo opravlja več kot odlično!</p>"
@@ -231,7 +231,7 @@
     {
       "title": "Robotska roka",
       "startTime": "12:00",
-      "location": "P18 P02",
+      "location": "P18 / P02",
       "accentColor": "#52CC5C",
       "content": [
         "<p>Na Fakulteti za računalništvo in informatiko smo izdelali pametno robotsko roko, ki zaznava svet okoli sebe in se nanj odziva. Pri izdelavi smo uporabili najnovejše tehnologije, od 3D tiskalnika do poceni računalnikov Raspberry Pi. Razvita roka je po načinu upravljanja enaka kot velike robotske roke na proizvodnih linijah ter drugih robotskih sistemih, kar omogoča našim študentom, da se spoznajo z robotiko na praktični in dostopen način. Prikazali bomo delovanje pametne robotske roke, obenem pa bo razložen tudi postopek njene izdelave.</p>"
@@ -240,7 +240,7 @@
     {
       "title": "Turtle bot",
       "startTime": "12:00",
-      "location": "P18 P02",
+      "location": "P18 / P02",
       "accentColor": "#52CC5C",
       "content": [
         "<p>Mobilni roboti postajajo naši vsakdanji spremljevalci v gospodinjstvu. Sesalci sami skrbijo za brezhibno čista tla v naših domovih, kosilnice pa za popolno travnato površino na vrtovih. Ste se kdaj vprašali, kako taki mobilni roboti delujejo, kako gledajo na svet in kako razpoznavajo svojo okolico? Poglejte na svet skozi robotove oči in spoznali boste, da je njegov pogled precej drugačen.</p>",
@@ -259,7 +259,7 @@
     {
       "title": "Igre",
       "startTime": "12:00",
-      "location": "P16 P10",
+      "location": "P16 / P10",
       "accentColor": "#EBD157",
       "content": [
         "<p>Pri predmetu Programiranje 1 že tradicionalno prirejamo tekmovanja v programiranju namiznih iger. Študentski programi so doslej tekmovali v igrah, kot so Štiri v vrsto, Točke in črte, Hex, Gomoku ... Marsikateri udeleženec ob vpisu na fakulteto ni imel nikakršnega predznanja programiranja, po borih treh mesecih študija pa je na tekmovanju dosegel nadpovprečno uvrstitev ali celo zmago.</p>",
@@ -270,7 +270,7 @@
     {
       "title": "Sheep Herding",
       "startTime": "12:00",
-      "location": "P20 P04",
+      "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
         "<p>V vlogi kužka v eni minuti pripelji čim več ovc v skedenj. Preganjanje ovc? A je to biotehniška in ne računalniški faks? Res je nova stavba FRI na isti lokaciji, ampak ali sem morda zašel v napačno stojnico? Če se ti po glavi vrtijo ta vprašanja, naj te potolažim. Nisi zgrešil. Če te zanima, kaj imajo skupnega črede ovc, jate rib in ptic, vojaški droni, igre in filmi Gospodar prstanov se nam pridruži."
@@ -279,7 +279,7 @@
     {
       "title": "Fishertechnik",
       "startTime": "12:00",
-      "location": "P20 P04",
+      "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
         "<p>Ste že kdaj videli, kako je videti moderna tovarna - praktično česarkoli se spomnite – od znotraj? Polna je obdelovalnih strojev, tekočih trakov, lučk, transporterjev … In vse deluje usklajeno, načrtovano, sprogramirano. Bi želeli vedeti, kakšni »možgani« so v ozadju in kako se programira take stroje? Prikazali vam bomo igračkast model proizvodnje linije in pravi industrijski računalnik, ki to linijo spravlja k življenju. Poleg tega boste lahko iz prve roke oziroma ust naših študentov izvedeli, kaj vse se lahko naučite pri nas in kako je to lahko zabavno.</p>"
@@ -288,7 +288,7 @@
     {
       "title": "Minecraft Slovenia",
       "startTime": "12:00",
-      "location": "P20 P04",
+      "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
         "<p>Ste se kdaj med igranjem računalniške igre vprašali, kako bi v tej igri izgledal vaš domači kraj? Ste poskusili v igri Minecraft to narediti sami? Aplikacija Slovenija iz kock prikaže poljuben izsek iz slovenske pokrajine, zgrajene iz kock oz. blokov, podobnim tistim v igri Minecraft. Aplikacija uporablja odprte podatkovne zbirke Agencije Republike Slovenije za okolje (ARSO), natančneje zbirki posnetkov LIDAR in Ortofoto.</p>",
@@ -299,7 +299,7 @@
     {
       "title": "Zombie Walk",
       "startTime": "12:00",
-      "location": "P19 P03",
+      "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Verjetno si v filmih opazil, da imajo zombiji zanje značilno hojo. Ali misliš, da jo lahko oponašaš? Danes lahko to poskusiš. 'Zombie walk' zajema podatke inercijskih senzorjev v tvojem telefonu med hojo in jih pošilja v oblak, tam pa poseben algoritem oceni, kako je način tvoje hoje podoben zombijevi. Sodelovanje je preprosto: s svojim Android telefonom se prijaviš v Wi-Fi, namestiš in zaženeš aplikacijo, vpišeš svoj vzdevek in - hodiš kot zombie! Na ta način lahko ugotoviš, kako dobra je tvoja zombie-hoja, prav tako pa lahko tekmuješ s prijatelji in se primerjaš z ostalimi udeleženci.</p>"
@@ -308,7 +308,7 @@
     {
       "title": "Slavni dvojnik",
       "startTime": "12:00",
-      "location": "P19 P03",
+      "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Slavni dvojnik zajame slike posameznika in na podlagi njegovih značilnosti poišče sliko znane osebnosti, ki ji je najbolj podoben. Podobnost se išče z nevronskimi mrežami, ki so bile naučene na velikem sklopu podatkov OpenFace. Aplikacijo predstavlja sklop interaktivnih komponent, razvitih v okolju za podatkovno analitiko in strojno učenje Orange, ki ga od leta 1996 razvijamo na Fakulteti za računalništvo in informatiko.</p>"
@@ -317,7 +317,7 @@
     {
       "title": "Parkinsoncheck",
       "startTime": "12:00",
-      "location": "P19 P03",
+      "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Razvili smo aplikacijo za detekcijo morebitnih znakov tremorja (parkinsonski ali esencialni tremor) v ročno narisani spirali. Primeri narisanih spiral so na sliki spodaj. Sistem je bil razvit v aplikativnem projektu ParkinsonCheck. Teče na pametnih telefonih in tabličnih računalnikih.</p>",
@@ -328,7 +328,7 @@
     {
       "title": "Kriptografija",
       "startTime": "12:00",
-      "location": "P21 P09",
+      "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Kriptografija združuje mnoga področja, od matematike in računalništva pa vse do ekonomije in prava. Potrebujejo jo vsi – tisti, ki uporabljajo pošto in iščejo po internetu, in tisti, ki vodijo velika podjetja ter države. Kako kriptografija deluje, vam bomo pokazali s pomočjo kriptografskih ugank.</p>"
@@ -337,7 +337,7 @@
     {
       "title": "Peskovnik",
       "startTime": "12:00",
-      "location": "P21 P09",
+      "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Peskovnik predstavlja virtualno obogateno okolje s katerim se na visokotehnološki način vrnemo v otroško obdobje brezskrbnega ustvarjanja z mivko. Projicirana vsebina se spreminja v skladu s trenutno obliko pokrajine v peskovniku. S tem lahko simuliramo višinske nivoje v različnih odtenkih. Zaradi svoje zasnove je instalacija zelo primerna za vizualizacijo virtualne geologije. Z uporabo globinskega senzorja in projektorja lahko pričaramo izjemno natančno procesiranje fizične površine in hkrati obogateno predstavitev novih vsebin s katerimi površina nemudoma postane bolj atraktivna.</p>"
@@ -346,7 +346,7 @@
      {
       "title": "Mindreader",
       "startTime": "12:00",
-      "location": "P21 P09",
+      "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Mindreader v realnem času analizira vhodno sliko, na kateri poišče obraze vseh prisotnih opazovalcev. Aplikacija sledi detektiranim obrazom in jih v virtualnem svetu ustrezno obogati. Posameznik lahko pridobi novo, interaktivno identiteto, ki je pogojena z analiziranimi obraznimi značilnostmi. Hkrati vsak obraz pridobi t.i. miselni oblaček, v katerem je zapisana humorna izjava, ki ponazarja trenutno razmišljanje opazovalca. Instalacija je namenjena družabnim dogodkom, kjer je zaželjeno sproščeno navezovanje stikov in Mindreader v tem pogledu svojo nalogo opravlja več kot odlično!</p>"
@@ -356,7 +356,7 @@
     {
       "title": "Robotska roka",
       "startTime": "12:00",
-      "location": "P18 P02",
+      "location": "P18 / P02",
       "accentColor": "#52CC5C",
       "content": [
         "<p>Na Fakulteti za računalništvo in informatiko smo izdelali pametno robotsko roko, ki zaznava svet okoli sebe in se nanj odziva. Pri izdelavi smo uporabili najnovejše tehnologije, od 3D tiskalnika do poceni računalnikov Raspberry Pi. Razvita roka je po načinu upravljanja enaka kot velike robotske roke na proizvodnih linijah ter drugih robotskih sistemih, kar omogoča našim študentom, da se spoznajo z robotiko na praktični in dostopen način. Prikazali bomo delovanje pametne robotske roke, obenem pa bo razložen tudi postopek njene izdelave.</p>"
@@ -365,7 +365,7 @@
     {
       "title": "Turtle bot",
       "startTime": "12:00",
-      "location": "P18 P02",
+      "location": "P18 / P02",
       "accentColor": "#52CC5C",
       "content": [
         "<p>Mobilni roboti postajajo naši vsakdanji spremljevalci v gospodinjstvu. Sesalci sami skrbijo za brezhibno čista tla v naših domovih, kosilnice pa za popolno travnato površino na vrtovih. Ste se kdaj vprašali, kako taki mobilni roboti delujejo, kako gledajo na svet in kako razpoznavajo svojo okolico? Poglejte na svet skozi robotove oči in spoznali boste, da je njegov pogled precej drugačen.</p>",
