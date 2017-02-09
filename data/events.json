@@ -2,7 +2,7 @@
   "first": [
     {
       "title": "Sprejem dijakov",
-      "startTime": "10:00",
+      "startTime": "11:00",
       "location": "PA",
       "accentColor": "#EB5859"
     },
@@ -127,14 +127,14 @@
   "second": [
     {
       "title": "Sprejem dijakov",
-      "startTime": "10:00",
+      "startTime": "15:30",
       "location": "PA",
       "accentColor": "#EB5859"
     },
 
     {
       "title": "Igre",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P16 / P10",
       "accentColor": "#EBD157",
       "content": [
@@ -144,7 +144,7 @@
 
     {
       "title": "Sheep Herding",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
@@ -153,7 +153,7 @@
     },
     {
       "title": "Fishertechnik",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
@@ -162,7 +162,7 @@
     },
     {
       "title": "Minecraft Slovenia",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
@@ -173,7 +173,7 @@
 
     {
       "title": "Zombie Walk",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
@@ -182,7 +182,7 @@
     },
     {
       "title": "Slavni dvojnik",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
@@ -191,7 +191,7 @@
     },
     {
       "title": "Parkinsoncheck",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
@@ -202,7 +202,7 @@
 
     {
       "title": "Kriptografija",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
@@ -211,7 +211,7 @@
     },
     {
       "title": "Peskovnik",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
@@ -220,7 +220,7 @@
     },
      {
       "title": "Mindreader",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
@@ -230,7 +230,7 @@
 
     {
       "title": "Robotska roka",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P18 / P02",
       "accentColor": "#52CC5C",
       "content": [
@@ -239,7 +239,7 @@
     },
     {
       "title": "Turtle bot",
-      "startTime": "12:00",
+      "startTime": "16:30",
       "location": "P18 / P02",
       "accentColor": "#52CC5C",
       "content": [
@@ -252,13 +252,13 @@
     {
       "title": "Sprejem dijakov",
       "startTime": "10:00",
-      "location": "PA",
+      "location": "P1",
       "accentColor": "#EB5859"
     },
 
     {
       "title": "Igre",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P16 / P10",
       "accentColor": "#EBD157",
       "content": [
@@ -269,7 +269,7 @@
 
     {
       "title": "Sheep Herding",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
@@ -278,7 +278,7 @@
     },
     {
       "title": "Fishertechnik",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
@@ -287,7 +287,7 @@
     },
     {
       "title": "Minecraft Slovenia",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
       "content": [
@@ -298,7 +298,7 @@
 
     {
       "title": "Zombie Walk",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
@@ -307,7 +307,7 @@
     },
     {
       "title": "Slavni dvojnik",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
@@ -316,7 +316,7 @@
     },
     {
       "title": "Parkinsoncheck",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P19 / P03",
       "accentColor": "#EB8B58",
       "content": [
@@ -327,7 +327,7 @@
 
     {
       "title": "Kriptografija",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
@@ -336,7 +336,7 @@
     },
     {
       "title": "Peskovnik",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
@@ -345,7 +345,7 @@
     },
      {
       "title": "Mindreader",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P21 / P09",
       "accentColor": "#5BD1C0",
       "content": [
@@ -355,7 +355,7 @@
 
     {
       "title": "Robotska roka",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P18 / P02",
       "accentColor": "#52CC5C",
       "content": [
@@ -364,7 +364,7 @@
     },
     {
       "title": "Turtle bot",
-      "startTime": "12:00",
+      "startTime": "11:00",
       "location": "P18 / P02",
       "accentColor": "#52CC5C",
       "content": [
