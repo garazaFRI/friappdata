@@ -8,7 +8,7 @@
     },
 
     {
-      "title": "Igre",
+      "title": "Programiranje namiznih iger",
       "startTime": "12:00",
       "location": "P16 / P10",
       "accentColor": "#EBD157",
@@ -19,7 +19,7 @@
     },
 
     {
-      "title": "Sheep Herding",
+      "title": "FRI sheeping",
       "startTime": "12:00",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "title": "Fishertechnik",
+      "title": "Krmilnik Siemens in modeli Fischertechnik",
       "startTime": "12:00",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
@@ -39,18 +39,26 @@
     {
       "title": "Minecraft Slovenia",
       "startTime": "12:00",
-      "location": "P20 / P04",
+      "location": "P20",
       "accentColor": "#4A84A3",
       "content": [
         "<p>Ste se kdaj med igranjem računalniške igre vprašali, kako bi v tej igri izgledal vaš domači kraj? Ste poskusili v igri Minecraft to narediti sami? Aplikacija Slovenija iz kock prikaže poljuben izsek iz slovenske pokrajine, zgrajene iz kock oz. blokov, podobnim tistim v igri Minecraft. Aplikacija uporablja odprte podatkovne zbirke Agencije Republike Slovenije za okolje (ARSO), natančneje zbirki posnetkov LIDAR in Ortofoto.</p>",
         "<p>Obiskovalci bodo lahko izbrali predel Slovenije oz. njihovega domačega kraja, ki jim ga bo aplikacija upodobila v obliki 3D modela. Izris si bodo obiskovalci lahko poslali na svoj elektronski naslov.</p>"
       ]
     },
-
+    {
+      "title": "Software defined radio",
+      "startTime": "12:00",
+      "location": "P04",
+      "accentColor": "#4A84A3",
+      "content": [
+        "<p>Can you see wireless signals? With the right tools and the right knowledge - you can! We will demonstrate how a cheap USB device can be used to detect and decode different transmissions, such as FM radio, walkie-talkie communication or even airplane traffic messages! Stop by to see how, thanks to this new concept called software-defined radio that we research at FRI, we are able to easily hack into wireless signals.</p>"
+      ]
+    },
     {
       "title": "Zombie Walk",
       "startTime": "12:00",
-      "location": "P19 / P03",
+      "location": "P19",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Verjetno si v filmih opazil, da imajo zombiji zanje značilno hojo. Ali misliš, da jo lahko oponašaš? Danes lahko to poskusiš. 'Zombie walk' zajema podatke inercijskih senzorjev v tvojem telefonu med hojo in jih pošilja v oblak, tam pa poseben algoritem oceni, kako je način tvoje hoje podoben zombijevi. Sodelovanje je preprosto: s svojim Android telefonom se prijaviš v Wi-Fi, namestiš in zaženeš aplikacijo, vpišeš svoj vzdevek in - hodiš kot zombie! Na ta način lahko ugotoviš, kako dobra je tvoja zombie-hoja, prav tako pa lahko tekmuješ s prijatelji in se primerjaš z ostalimi udeleženci.</p>"
@@ -75,7 +83,24 @@
         "<p>Uporabnik nariše več spiral s predlogo in brez. Aplikacija iz poteka risanja izlušči številne lastnosti spiral, na podlagi katerih klasificira uporabnika kot zdravega ali ga opozori na možnost, da kaže znake enega od tremorjev. V tem primeru mu svetuje obisk pri zdravniku.</p>"
       ]
     },
-
+    {
+      "title": "Računalniške klaviature",
+      "startTime": "12:00",
+      "location": "P03",
+      "accentColor": "#EB8B58",
+      "content": [
+        "<p>Preizkusite klaviature, ki jih poganja Raspberry Pi.</p>"
+      ]
+    },
+    {
+      "title": "Pokukaj v računalnik",
+      "startTime": "12:00",
+      "location": "P03",
+      "accentColor": "#EB8B58",
+      "content": [
+        "<p>Pokukajte v 'drobovje' računalnika medtem, ko deluje.</p>"
+      ]
+    },
     {
       "title": "Kriptografija",
       "startTime": "12:00",
@@ -88,7 +113,7 @@
     {
       "title": "Peskovnik",
       "startTime": "12:00",
-      "location": "P21 / P09",
+      "location": "P21",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Peskovnik predstavlja virtualno obogateno okolje s katerim se na visokotehnološki način vrnemo v otroško obdobje brezskrbnega ustvarjanja z mivko. Projicirana vsebina se spreminja v skladu s trenutno obliko pokrajine v peskovniku. S tem lahko simuliramo višinske nivoje v različnih odtenkih. Zaradi svoje zasnove je instalacija zelo primerna za vizualizacijo virtualne geologije. Z uporabo globinskega senzorja in projektorja lahko pričaramo izjemno natančno procesiranje fizične površine in hkrati obogateno predstavitev novih vsebin s katerimi površina nemudoma postane bolj atraktivna.</p>"
@@ -97,13 +122,48 @@
      {
       "title": "Mindreader",
       "startTime": "12:00",
-      "location": "P21 / P09",
+      "location": "P21",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Mindreader v realnem času analizira vhodno sliko, na kateri poišče obraze vseh prisotnih opazovalcev. Aplikacija sledi detektiranim obrazom in jih v virtualnem svetu ustrezno obogati. Posameznik lahko pridobi novo, interaktivno identiteto, ki je pogojena z analiziranimi obraznimi značilnostmi. Hkrati vsak obraz pridobi t.i. miselni oblaček, v katerem je zapisana humorna izjava, ki ponazarja trenutno razmišljanje opazovalca. Instalacija je namenjena družabnim dogodkom, kjer je zaželjeno sproščeno navezovanje stikov in Mindreader v tem pogledu svojo nalogo opravlja več kot odlično!</p>"
       ]
     },
-
+     {
+      "title": "Valovna enačba",
+      "startTime": "12:00",
+      "location": "P21",
+      "accentColor": "#5BD1C0",
+      "content": [
+        ""
+      ]
+    },
+     {
+      "title": "Kaj je strojno učenje?",
+      "startTime": "12:00",
+      "location": "P21 / P09",
+      "accentColor": "#5BD1C0",
+      "content": [
+        "<p>Verjetno ste že velikokrat slišali za izraz strojno učenje. Ste se kdaj vprašali kako se računalnik lahko uči in kje vse se dandanes uporablja strojno učenje? Kako se lahko iz velike količine podatkov iz preteklosti naučimo kaj o prihodnosti? Na predstavitvi bomo izvedli »crash course« strojnega učenja ter predstavitev odmevnejših preteklih in sedanjih projektov pri katerih je sodeloval naš laboratorij. Pregledali bomo širok spekter možnih uporab strojnega učenja, podjetij in organizacij, ki potrebujejo takšno znanje ter rešitve tekočih težav strojnega učenja razvitih v našem laboratoriju.</p>"
+      ]
+    },
+     {
+      "title": "Oculus FRI",
+      "startTime": "12:00",
+      "location": "P09",
+      "accentColor": "#5BD1C0",
+      "content": [
+        "<p>Z uporabo Oculus Rifta se uporabnik lahko poda v virtualni svet naše nove fakultete. Izkušnja je zanimiva tako iz vidika uporabljenih tehnologij kot tudi iz perspektive grafične upodobitve arhitekture nove stavbe. Prijetno vabljeni na tehnološko dovršen ogled prostorov – tako v realnem kot tudi v virtualnem svetu!</p>"
+      ]
+    },
+     {
+      "title": "15 sekund slave",
+      "startTime": "12:00",
+      "location": "P09",
+      "accentColor": "#5BD1C0",
+      "content": [
+        "<p>15 sekund slave je interaktivna umetniška instalacija, ki obraz naključno izbranega obiskovalca galerije povzdigne v umetniški objekt za 15 sekund. Instalacija je bila navdahnjena s slavnim citatom Andyja Warhola 'V prihodnosti bodo vsi ljudje doživeli svojih petnajst minut slave' kot tudi z njegovim načinom predelave obrazov v slogu pop-arta. Instalacija je sestavljena iz računalnika z zaslonom LCD, ki je uokvirjen in razstavljen kot dragocena slika na steni, digitalnega fotoaparata, usmerjenega v ljudi pred zaslonom in posebej izdelane programske opreme, ki na slikah poišče človeške obraze in jih grafično predela.</p>"
+      ]
+    },
     {
       "title": "Robotska roka",
       "startTime": "12:00",
@@ -131,19 +191,19 @@
       "location": "PA",
       "accentColor": "#EB5859"
     },
-
     {
-      "title": "Igre",
+      "title": "Programiranje namiznih iger",
       "startTime": "16:30",
       "location": "P16 / P10",
       "accentColor": "#EBD157",
       "content": [
-        "<p>Pri predmetu Programiranje 1 že tradicionalno prirejamo tekmovanja v programiranju namiznih iger. Študentski programi so doslej tekmovali v igrah, kot so Štiri v vrsto, Točke in črte, Hex, Gomoku ... Marsikateri udeleženec ob vpisu na fakulteto ni imel nikakršnega predznanja programiranja, po borih treh mesecih študija pa je na tekmovanju dosegel nadpovprečno uvrstitev ali celo zmago.</p>"
+        "<p>Pri predmetu Programiranje 1 že tradicionalno prirejamo tekmovanja v programiranju namiznih iger. Študentski programi so doslej tekmovali v igrah, kot so Štiri v vrsto, Točke in črte, Hex, Gomoku ... Marsikateri udeleženec ob vpisu na fakulteto ni imel nikakršnega predznanja programiranja, po borih treh mesecih študija pa je na tekmovanju dosegel nadpovprečno uvrstitev ali celo zmago.</p>",
+        "<p>Pomerite se proti zmagovalnim programom iz preteklih let in se prepričajte o njihovi moči!</p>"
       ]
     },
 
     {
-      "title": "Sheep Herding",
+      "title": "FRI sheeping",
       "startTime": "16:30",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
@@ -152,7 +212,7 @@
       ]
     },
     {
-      "title": "Fishertechnik",
+      "title": "Krmilnik Siemens in modeli Fischertechnik",
       "startTime": "16:30",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
@@ -163,18 +223,26 @@
     {
       "title": "Minecraft Slovenia",
       "startTime": "16:30",
-      "location": "P20 / P04",
+      "location": "P20",
       "accentColor": "#4A84A3",
       "content": [
         "<p>Ste se kdaj med igranjem računalniške igre vprašali, kako bi v tej igri izgledal vaš domači kraj? Ste poskusili v igri Minecraft to narediti sami? Aplikacija Slovenija iz kock prikaže poljuben izsek iz slovenske pokrajine, zgrajene iz kock oz. blokov, podobnim tistim v igri Minecraft. Aplikacija uporablja odprte podatkovne zbirke Agencije Republike Slovenije za okolje (ARSO), natančneje zbirki posnetkov LIDAR in Ortofoto.</p>",
         "<p>Obiskovalci bodo lahko izbrali predel Slovenije oz. njihovega domačega kraja, ki jim ga bo aplikacija upodobila v obliki 3D modela. Izris si bodo obiskovalci lahko poslali na svoj elektronski naslov.</p>"
       ]
     },
-
+    {
+      "title": "Software defined radio",
+      "startTime": "16:30",
+      "location": "P04",
+      "accentColor": "#4A84A3",
+      "content": [
+        "<p>Can you see wireless signals? With the right tools and the right knowledge - you can! We will demonstrate how a cheap USB device can be used to detect and decode different transmissions, such as FM radio, walkie-talkie communication or even airplane traffic messages! Stop by to see how, thanks to this new concept called software-defined radio that we research at FRI, we are able to easily hack into wireless signals.</p>"
+      ]
+    },
     {
       "title": "Zombie Walk",
       "startTime": "16:30",
-      "location": "P19 / P03",
+      "location": "P19",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Verjetno si v filmih opazil, da imajo zombiji zanje značilno hojo. Ali misliš, da jo lahko oponašaš? Danes lahko to poskusiš. 'Zombie walk' zajema podatke inercijskih senzorjev v tvojem telefonu med hojo in jih pošilja v oblak, tam pa poseben algoritem oceni, kako je način tvoje hoje podoben zombijevi. Sodelovanje je preprosto: s svojim Android telefonom se prijaviš v Wi-Fi, namestiš in zaženeš aplikacijo, vpišeš svoj vzdevek in - hodiš kot zombie! Na ta način lahko ugotoviš, kako dobra je tvoja zombie-hoja, prav tako pa lahko tekmuješ s prijatelji in se primerjaš z ostalimi udeleženci.</p>"
@@ -199,7 +267,24 @@
         "<p>Uporabnik nariše več spiral s predlogo in brez. Aplikacija iz poteka risanja izlušči številne lastnosti spiral, na podlagi katerih klasificira uporabnika kot zdravega ali ga opozori na možnost, da kaže znake enega od tremorjev. V tem primeru mu svetuje obisk pri zdravniku.</p>"
       ]
     },
-
+    {
+      "title": "Računalniške klaviature",
+      "startTime": "16:30",
+      "location": "P03",
+      "accentColor": "#EB8B58",
+      "content": [
+        "<p>Preizkusite klaviature, ki jih poganja Raspberry Pi.</p>"
+      ]
+    },
+    {
+      "title": "Pokukaj v računalnik",
+      "startTime": "16:30",
+      "location": "P03",
+      "accentColor": "#EB8B58",
+      "content": [
+        "<p>Pokukajte v 'drobovje' računalnika medtem, ko deluje.</p>"
+      ]
+    },
     {
       "title": "Kriptografija",
       "startTime": "16:30",
@@ -212,7 +297,7 @@
     {
       "title": "Peskovnik",
       "startTime": "16:30",
-      "location": "P21 / P09",
+      "location": "P21",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Peskovnik predstavlja virtualno obogateno okolje s katerim se na visokotehnološki način vrnemo v otroško obdobje brezskrbnega ustvarjanja z mivko. Projicirana vsebina se spreminja v skladu s trenutno obliko pokrajine v peskovniku. S tem lahko simuliramo višinske nivoje v različnih odtenkih. Zaradi svoje zasnove je instalacija zelo primerna za vizualizacijo virtualne geologije. Z uporabo globinskega senzorja in projektorja lahko pričaramo izjemno natančno procesiranje fizične površine in hkrati obogateno predstavitev novih vsebin s katerimi površina nemudoma postane bolj atraktivna.</p>"
@@ -221,13 +306,48 @@
      {
       "title": "Mindreader",
       "startTime": "16:30",
-      "location": "P21 / P09",
+      "location": "P21",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Mindreader v realnem času analizira vhodno sliko, na kateri poišče obraze vseh prisotnih opazovalcev. Aplikacija sledi detektiranim obrazom in jih v virtualnem svetu ustrezno obogati. Posameznik lahko pridobi novo, interaktivno identiteto, ki je pogojena z analiziranimi obraznimi značilnostmi. Hkrati vsak obraz pridobi t.i. miselni oblaček, v katerem je zapisana humorna izjava, ki ponazarja trenutno razmišljanje opazovalca. Instalacija je namenjena družabnim dogodkom, kjer je zaželjeno sproščeno navezovanje stikov in Mindreader v tem pogledu svojo nalogo opravlja več kot odlično!</p>"
       ]
     },
-
+     {
+      "title": "Valovna enačba",
+      "startTime": "16:30",
+      "location": "P21",
+      "accentColor": "#5BD1C0",
+      "content": [
+        ""
+      ]
+    },
+     {
+      "title": "Kaj je strojno učenje?",
+      "startTime": "16:30",
+      "location": "P21 / P09",
+      "accentColor": "#5BD1C0",
+      "content": [
+        "<p>Verjetno ste že velikokrat slišali za izraz strojno učenje. Ste se kdaj vprašali kako se računalnik lahko uči in kje vse se dandanes uporablja strojno učenje? Kako se lahko iz velike količine podatkov iz preteklosti naučimo kaj o prihodnosti? Na predstavitvi bomo izvedli »crash course« strojnega učenja ter predstavitev odmevnejših preteklih in sedanjih projektov pri katerih je sodeloval naš laboratorij. Pregledali bomo širok spekter možnih uporab strojnega učenja, podjetij in organizacij, ki potrebujejo takšno znanje ter rešitve tekočih težav strojnega učenja razvitih v našem laboratoriju.</p>"
+      ]
+    },
+     {
+      "title": "Oculus FRI",
+      "startTime": "16:30",
+      "location": "P09",
+      "accentColor": "#5BD1C0",
+      "content": [
+        "<p>Z uporabo Oculus Rifta se uporabnik lahko poda v virtualni svet naše nove fakultete. Izkušnja je zanimiva tako iz vidika uporabljenih tehnologij kot tudi iz perspektive grafične upodobitve arhitekture nove stavbe. Prijetno vabljeni na tehnološko dovršen ogled prostorov – tako v realnem kot tudi v virtualnem svetu!</p>"
+      ]
+    },
+     {
+      "title": "15 sekund slave",
+      "startTime": "16:30",
+      "location": "P09",
+      "accentColor": "#5BD1C0",
+      "content": [
+        "<p>15 sekund slave je interaktivna umetniška instalacija, ki obraz naključno izbranega obiskovalca galerije povzdigne v umetniški objekt za 15 sekund. Instalacija je bila navdahnjena s slavnim citatom Andyja Warhola 'V prihodnosti bodo vsi ljudje doživeli svojih petnajst minut slave' kot tudi z njegovim načinom predelave obrazov v slogu pop-arta. Instalacija je sestavljena iz računalnika z zaslonom LCD, ki je uokvirjen in razstavljen kot dragocena slika na steni, digitalnega fotoaparata, usmerjenega v ljudi pred zaslonom in posebej izdelane programske opreme, ki na slikah poišče človeške obraze in jih grafično predela.</p>"
+      ]
+    },
     {
       "title": "Robotska roka",
       "startTime": "16:30",
@@ -255,9 +375,8 @@
       "location": "P1",
       "accentColor": "#EB5859"
     },
-
     {
-      "title": "Igre",
+      "title": "Programiranje namiznih iger",
       "startTime": "11:00",
       "location": "P16 / P10",
       "accentColor": "#EBD157",
@@ -268,7 +387,7 @@
     },
 
     {
-      "title": "Sheep Herding",
+      "title": "FRI sheeping",
       "startTime": "11:00",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
@@ -277,7 +396,7 @@
       ]
     },
     {
-      "title": "Fishertechnik",
+      "title": "Krmilnik Siemens in modeli Fischertechnik",
       "startTime": "11:00",
       "location": "P20 / P04",
       "accentColor": "#4A84A3",
@@ -288,18 +407,26 @@
     {
       "title": "Minecraft Slovenia",
       "startTime": "11:00",
-      "location": "P20 / P04",
+      "location": "P20",
       "accentColor": "#4A84A3",
       "content": [
         "<p>Ste se kdaj med igranjem računalniške igre vprašali, kako bi v tej igri izgledal vaš domači kraj? Ste poskusili v igri Minecraft to narediti sami? Aplikacija Slovenija iz kock prikaže poljuben izsek iz slovenske pokrajine, zgrajene iz kock oz. blokov, podobnim tistim v igri Minecraft. Aplikacija uporablja odprte podatkovne zbirke Agencije Republike Slovenije za okolje (ARSO), natančneje zbirki posnetkov LIDAR in Ortofoto.</p>",
         "<p>Obiskovalci bodo lahko izbrali predel Slovenije oz. njihovega domačega kraja, ki jim ga bo aplikacija upodobila v obliki 3D modela. Izris si bodo obiskovalci lahko poslali na svoj elektronski naslov.</p>"
       ]
     },
-
+    {
+      "title": "Software defined radio",
+      "startTime": "11:00",
+      "location": "P04",
+      "accentColor": "#4A84A3",
+      "content": [
+        "<p>Can you see wireless signals? With the right tools and the right knowledge - you can! We will demonstrate how a cheap USB device can be used to detect and decode different transmissions, such as FM radio, walkie-talkie communication or even airplane traffic messages! Stop by to see how, thanks to this new concept called software-defined radio that we research at FRI, we are able to easily hack into wireless signals.</p>"
+      ]
+    },
     {
       "title": "Zombie Walk",
       "startTime": "11:00",
-      "location": "P19 / P03",
+      "location": "P19",
       "accentColor": "#EB8B58",
       "content": [
         "<p>Verjetno si v filmih opazil, da imajo zombiji zanje značilno hojo. Ali misliš, da jo lahko oponašaš? Danes lahko to poskusiš. 'Zombie walk' zajema podatke inercijskih senzorjev v tvojem telefonu med hojo in jih pošilja v oblak, tam pa poseben algoritem oceni, kako je način tvoje hoje podoben zombijevi. Sodelovanje je preprosto: s svojim Android telefonom se prijaviš v Wi-Fi, namestiš in zaženeš aplikacijo, vpišeš svoj vzdevek in - hodiš kot zombie! Na ta način lahko ugotoviš, kako dobra je tvoja zombie-hoja, prav tako pa lahko tekmuješ s prijatelji in se primerjaš z ostalimi udeleženci.</p>"
@@ -324,7 +451,24 @@
         "<p>Uporabnik nariše več spiral s predlogo in brez. Aplikacija iz poteka risanja izlušči številne lastnosti spiral, na podlagi katerih klasificira uporabnika kot zdravega ali ga opozori na možnost, da kaže znake enega od tremorjev. V tem primeru mu svetuje obisk pri zdravniku.</p>"
       ]
     },
-
+    {
+      "title": "Računalniške klaviature",
+      "startTime": "11:00",
+      "location": "P03",
+      "accentColor": "#EB8B58",
+      "content": [
+        "<p>Preizkusite klaviature, ki jih poganja Raspberry Pi.</p>"
+      ]
+    },
+    {
+      "title": "Pokukaj v računalnik",
+      "startTime": "11:00",
+      "location": "P03",
+      "accentColor": "#EB8B58",
+      "content": [
+        "<p>Pokukajte v 'drobovje' računalnika medtem, ko deluje.</p>"
+      ]
+    },
     {
       "title": "Kriptografija",
       "startTime": "11:00",
@@ -337,7 +481,7 @@
     {
       "title": "Peskovnik",
       "startTime": "11:00",
-      "location": "P21 / P09",
+      "location": "P21",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Peskovnik predstavlja virtualno obogateno okolje s katerim se na visokotehnološki način vrnemo v otroško obdobje brezskrbnega ustvarjanja z mivko. Projicirana vsebina se spreminja v skladu s trenutno obliko pokrajine v peskovniku. S tem lahko simuliramo višinske nivoje v različnih odtenkih. Zaradi svoje zasnove je instalacija zelo primerna za vizualizacijo virtualne geologije. Z uporabo globinskega senzorja in projektorja lahko pričaramo izjemno natančno procesiranje fizične površine in hkrati obogateno predstavitev novih vsebin s katerimi površina nemudoma postane bolj atraktivna.</p>"
@@ -346,13 +490,48 @@
      {
       "title": "Mindreader",
       "startTime": "11:00",
-      "location": "P21 / P09",
+      "location": "P21",
       "accentColor": "#5BD1C0",
       "content": [
         "<p>Mindreader v realnem času analizira vhodno sliko, na kateri poišče obraze vseh prisotnih opazovalcev. Aplikacija sledi detektiranim obrazom in jih v virtualnem svetu ustrezno obogati. Posameznik lahko pridobi novo, interaktivno identiteto, ki je pogojena z analiziranimi obraznimi značilnostmi. Hkrati vsak obraz pridobi t.i. miselni oblaček, v katerem je zapisana humorna izjava, ki ponazarja trenutno razmišljanje opazovalca. Instalacija je namenjena družabnim dogodkom, kjer je zaželjeno sproščeno navezovanje stikov in Mindreader v tem pogledu svojo nalogo opravlja več kot odlično!</p>"
       ]
     },
-
+     {
+      "title": "Valovna enačba",
+      "startTime": "11:00",
+      "location": "P21",
+      "accentColor": "#5BD1C0",
+      "content": [
+        ""
+      ]
+    },
+     {
+      "title": "Kaj je strojno učenje?",
+      "startTime": "11:00",
+      "location": "P21 / P09",
+      "accentColor": "#5BD1C0",
+      "content": [
+        "<p>Verjetno ste že velikokrat slišali za izraz strojno učenje. Ste se kdaj vprašali kako se računalnik lahko uči in kje vse se dandanes uporablja strojno učenje? Kako se lahko iz velike količine podatkov iz preteklosti naučimo kaj o prihodnosti? Na predstavitvi bomo izvedli »crash course« strojnega učenja ter predstavitev odmevnejših preteklih in sedanjih projektov pri katerih je sodeloval naš laboratorij. Pregledali bomo širok spekter možnih uporab strojnega učenja, podjetij in organizacij, ki potrebujejo takšno znanje ter rešitve tekočih težav strojnega učenja razvitih v našem laboratoriju.</p>"
+      ]
+    },
+     {
+      "title": "Oculus FRI",
+      "startTime": "11:00",
+      "location": "P09",
+      "accentColor": "#5BD1C0",
+      "content": [
+        "<p>Z uporabo Oculus Rifta se uporabnik lahko poda v virtualni svet naše nove fakultete. Izkušnja je zanimiva tako iz vidika uporabljenih tehnologij kot tudi iz perspektive grafične upodobitve arhitekture nove stavbe. Prijetno vabljeni na tehnološko dovršen ogled prostorov – tako v realnem kot tudi v virtualnem svetu!</p>"
+      ]
+    },
+     {
+      "title": "15 sekund slave",
+      "startTime": "11:00",
+      "location": "P09",
+      "accentColor": "#5BD1C0",
+      "content": [
+        "<p>15 sekund slave je interaktivna umetniška instalacija, ki obraz naključno izbranega obiskovalca galerije povzdigne v umetniški objekt za 15 sekund. Instalacija je bila navdahnjena s slavnim citatom Andyja Warhola 'V prihodnosti bodo vsi ljudje doživeli svojih petnajst minut slave' kot tudi z njegovim načinom predelave obrazov v slogu pop-arta. Instalacija je sestavljena iz računalnika z zaslonom LCD, ki je uokvirjen in razstavljen kot dragocena slika na steni, digitalnega fotoaparata, usmerjenega v ljudi pred zaslonom in posebej izdelane programske opreme, ki na slikah poišče človeške obraze in jih grafično predela.</p>"
+      ]
+    },
     {
       "title": "Robotska roka",
       "startTime": "11:00",
