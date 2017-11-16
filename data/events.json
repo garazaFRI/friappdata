@@ -1,12 +1,20 @@
 {
   "first": [
     {
+      "section": true,
+      "startTime": "11:00",
+    },
+    {
       "title": "Sprejem dijakov",
       "startTime": "11:00",
       "location": "PA",
       "accentColor": "#EB5859"
     },
-
+    
+    {
+      "section": true,
+      "startTime": "12:00",
+    },
     {
       "title": "Programiranje namiznih iger",
       "startTime": "12:00",
@@ -17,7 +25,6 @@
         "<p>Pomerite se proti zmagovalnim programom iz preteklih let in se prepričajte o njihovi moči!</p>"
       ]
     },
-
     {
       "title": "FRI sheeping",
       "startTime": "12:00",
@@ -184,13 +191,23 @@
       ]
     }
   ],
+
   "second": [
+    {
+      "section": true,
+      "startTime": "15:30",
+    },
     {
       "title": "Sprejem dijakov",
       "startTime": "15:30",
       "location": "PA",
       "accentColor": "#EB5859"
     },
+    
+    {
+      "section": true,
+      "startTime": "16:30",
+    },
     {
       "title": "Programiranje namiznih iger",
       "startTime": "16:30",
@@ -201,7 +218,6 @@
         "<p>Pomerite se proti zmagovalnim programom iz preteklih let in se prepričajte o njihovi moči!</p>"
       ]
     },
-
     {
       "title": "FRI sheeping",
       "startTime": "16:30",
@@ -368,12 +384,22 @@
       ]
     }
   ],
+
   "third": [
+    {
+      "section": true,
+      "startTime": "10:00",
+    },
     {
       "title": "Sprejem dijakov",
       "startTime": "10:00",
       "location": "P1",
       "accentColor": "#EB5859"
+    },
+    
+    {
+      "section": true,
+      "startTime": "11:00",
     },
     {
       "title": "Programiranje namiznih iger",
@@ -385,7 +411,6 @@
         "<p>Pomerite se proti zmagovalnim programom iz preteklih let in se prepričajte o njihovi moči!</p>"
       ]
     },
-
     {
       "title": "FRI sheeping",
       "startTime": "11:00",
