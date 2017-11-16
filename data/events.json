@@ -2,7 +2,7 @@
   "first": [
     {
       "section": true,
-      "startTime": "11:00",
+      "startTime": "11:00"
     },
     {
       "title": "Sprejem dijakov",
@@ -13,7 +13,7 @@
     
     {
       "section": true,
-      "startTime": "12:00",
+      "startTime": "12:00"
     },
     {
       "title": "Programiranje namiznih iger",
@@ -195,7 +195,7 @@
   "second": [
     {
       "section": true,
-      "startTime": "15:30",
+      "startTime": "15:30"
     },
     {
       "title": "Sprejem dijakov",
@@ -206,7 +206,7 @@
     
     {
       "section": true,
-      "startTime": "16:30",
+      "startTime": "16:30"
     },
     {
       "title": "Programiranje namiznih iger",
@@ -388,7 +388,7 @@
   "third": [
     {
       "section": true,
-      "startTime": "10:00",
+      "startTime": "10:00"
     },
     {
       "title": "Sprejem dijakov",
@@ -399,7 +399,7 @@
     
     {
       "section": true,
-      "startTime": "11:00",
+      "startTime": "11:00"
     },
     {
       "title": "Programiranje namiznih iger",
